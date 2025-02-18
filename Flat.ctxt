@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Flat
+comment1.params=
+comment1.target=Flat()
+comment10.params=
+comment10.target=java.lang.String\ getpreviousReadingDate()
+comment11.params=
+comment11.target=void\ printFlatDetails()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=street\ buildingNo\ buildingMeter\ currentReading\ currentReadingDate\ previousReading\ previousReadingDate\ tenant
+comment2.target=Flat(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.util.ArrayList)
+comment3.params=
+comment3.target=java.lang.String\ getstreet()
+comment4.params=
+comment4.target=int\ getbuildingNo()
+comment5.params=
+comment5.target=java.util.ArrayList\ getTenant()
+comment6.params=
+comment6.target=java.lang.String\ getbuildingMeter()
+comment7.params=
+comment7.target=int\ getcurrentReading()
+comment8.params=
+comment8.target=java.lang.String\ getcurrentReadingDate()
+comment9.params=
+comment9.target=int\ getpreviousReading()
+numComments=13

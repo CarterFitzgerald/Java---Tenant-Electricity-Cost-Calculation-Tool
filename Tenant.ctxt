@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tenant
+comment1.params=
+comment1.target=Tenant()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=honorific\ fName\ lName\ CN\ meterNo\ currentMeterReading\ currentMeterDate\ previousMeterReading\ previousMeterDate
+comment2.target=Tenant(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ gethonorific()
+comment4.params=
+comment4.target=java.lang.String\ getfName()
+comment5.params=
+comment5.target=java.lang.String\ getlName()
+comment6.params=
+comment6.target=int\ getcurrentMeterReading()
+comment7.params=
+comment7.target=int\ getpreviousMeterReading()
+comment8.params=
+comment8.target=java.lang.String\ getmeterNo()
+comment9.params=
+comment9.target=java.lang.String\ getcurrentMeterDate()
+numComments=11
